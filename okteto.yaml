@@ -1,0 +1,4 @@
+name: hello-world
+image: okteto/golang:1
+workdir: /app
+command: ["bash"]
